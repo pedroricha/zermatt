@@ -96,6 +96,7 @@ h2{font-size:1.8rem; margin:0 0 14px; color:var(--ink)}
   .grid-2{grid-template-columns:1fr}
   .grid-3, .cards{grid-template-columns:1fr 1fr}
   .pill-grid{grid-template-columns:1fr}
+  .copy{font-size:.7rem};
 }
 @media (max-width: 720px){
   .cards{grid-template-columns:1fr}
